@@ -6,4 +6,4 @@ I am a cybersecurity practitioner based in Europe doing DFIR, malware analysis a
 - 🏔️ I enjoy swimming and mountain biking;
 - 💬 Ask me about cybersecurity;
 - 📫 How to reach me: [diogoabfernandes@gmail.com](mailto:diogoabfernandes@gmail.com);
-- ⚡ Fun fact: I have worked and lived in five countries.
+- ⚡ Fun fact: I have lived and worked in five countries.
