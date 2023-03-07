@@ -7,3 +7,5 @@ I am a cybersecurity practitioner based in Europe doing DFIR, malware analysis a
 - 💬 Ask me about cybersecurity;
 - 📫 How to reach me: [diogoabfernandes@gmail.com](mailto:diogoabfernandes@gmail.com);
 - ⚡ Fun fact: I have lived and worked in five countries.
+
+![Diogo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogo-fernan&show_icons=true&theme=dark)
